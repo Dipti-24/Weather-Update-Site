@@ -1,10 +1,10 @@
 **Weather Update Site**
 
-**📌 Project Overview**
+** Project Overview**
 
 The Weather Update Site is a Django-based web application that allows users to check the current weather for various cities. It fetches real-time weather data and displays temperature, humidity, and other weather conditions in an easy-to-read format.
 
-**🚀 Features**
+** Features**
 
 🌍 Search Weather by City: Enter any city to get real-time weather updates.
 ⛅ Live Weather Data: Fetches accurate weather details using an API.
