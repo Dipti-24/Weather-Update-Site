@@ -11,6 +11,13 @@ The Weather Update Site is a Django-based web application that allows users to c
 3. User-Friendly Interface: Simple and interactive UI for a smooth experience.
 4. Built with Django: A powerful web framework for easy scalability.
 
+## Tech Stack
+1. Python
+2. Django
+3. API
+4. HTML
+5. CSS
+
 ## Installation & Setup
 
 ### Prerequisites
