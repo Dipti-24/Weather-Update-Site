@@ -7,14 +7,17 @@ The Weather Update Site is a Django-based web application that allows users to c
 ## Features
 
 1. Search Weather by City: Enter any city to get real-time weather updates.
+   
 2. Live Weather Data: Fetches accurate weather details using an API.
+   
 3. User-Friendly Interface: Simple and interactive UI for a smooth experience.
+   
 4. Built with Django: A powerful web framework for easy scalability.
 
 ## Tech Stack
 1. Python
 2. Django
-3. API
+3. Weather API
 4. HTML
 5. CSS
 
@@ -38,10 +41,6 @@ python manage.py runserver
 **5.Access the application**
 Open your browser 
 
-## Technologies Used
-**1. Django** - Web framework
-**2. Python**  - Backend language
-**3. Weather API**  - Fetches real-time weather data
 
 ## 🔗 License
 This project is licensed under the MIT License.
