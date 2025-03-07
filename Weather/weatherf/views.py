@@ -14,7 +14,7 @@ def index(request):
     try:
     # checking if the method is POST
         if request.method == 'POST':
-            API_KEY = '88abad9d9f048098a5515accd4b76833'
+            API_KEY = 'user you api key'
             # getting the city name from the form input   
             city_name = request.POST.get('city')
             # the url for current weather, takes city_name and API_KEY   
