@@ -41,6 +41,27 @@ python manage.py runserver
 **5.Access the application**
 Open your browser 
 
+## Working
+
+1. User Inputs City Name: The user enters a city name in the search bar.
+
+2. Form Submission: The application sends a request to the Django backend.
+
+3. Weather Data Fetching: Django makes an API request to OpenWeatherMap with the entered city name.
+
+4. Processing API Response:
+
+  + Extracts temperature, humidity, wind speed, and weather description.
+  + Formats the current date and time.
+
+5.  Rendering Data: The weather details are sent to the frontend and displayed dynamically on the home page.
+
+6. Error Handling:
+
+  + If an invalid city is entered, a 404 error page is displayed.
+
+  + Handles API errors gracefully to avoid crashes.
+
 
 ## 🔗 License
 This project is licensed under the MIT License.
