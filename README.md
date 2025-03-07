@@ -17,7 +17,7 @@ The Weather Update Site is a Django-based web application that allows users to c
 ## Tech Stack
 1. Python
 2. Django
-3. Weather API
+3. Weather API(openweathermap)
 4. HTML
    
 
