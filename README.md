@@ -19,7 +19,7 @@ The Weather Update Site is a Django-based web application that allows users to c
 2. Django
 3. Weather API
 4. HTML
-5. CSS
+   
 
 ## Installation & Setup
 
