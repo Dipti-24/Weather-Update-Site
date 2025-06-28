@@ -32,14 +32,10 @@ Ensure you have Python 3.8+ and Django installed.
 git clone https://github.com/Dipti-24/Weather-Update-Site.git  
 
 cd Weather-Update-Site  
-**2. Install dependencies**
-+pip install -r requirements.txt  
-**3. Run migrations**
-+python manage.py migrate  
-**4. Start the Django server**
-+python manage.py runserver  
-**5.Access the application**
-+Open your browser 
+**2. Install dependencies** : pip install -r requirements.txt  
+**3. Run migrations**: python manage.py migrate  
+**4. Start the Django server**: python manage.py runserver  
+**5.Access the application**: Open your browser 
 
 ## Working
 
