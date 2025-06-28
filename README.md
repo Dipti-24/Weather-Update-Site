@@ -33,13 +33,13 @@ git clone https://github.com/Dipti-24/Weather-Update-Site.git
 
 cd Weather-Update-Site  
 **2. Install dependencies**
-pip install -r requirements.txt  
++pip install -r requirements.txt  
 **3. Run migrations**
-python manage.py migrate  
++python manage.py migrate  
 **4. Start the Django server**
-python manage.py runserver  
++python manage.py runserver  
 **5.Access the application**
-Open your browser 
++Open your browser 
 
 ## Working
 
